@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lesson1_Exercise1</string>
+    <string name="hello_world_land">Terve landscape maailma!</string>
+    <string name="hello_world_port">Terve portrate maailma!</string>
+</resources>
