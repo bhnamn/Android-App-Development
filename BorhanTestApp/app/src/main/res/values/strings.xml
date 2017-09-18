@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AwesomeApp</string>
+    <string name="signIn_title">Sign In</string>
+    <string name="submit_button">Submit</string>
+</resources>

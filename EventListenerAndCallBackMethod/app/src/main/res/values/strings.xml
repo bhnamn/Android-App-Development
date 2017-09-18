@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EventListenerAndCallBackMethod</string>
+    <string name="textView_beforeClick">I will be changed!</string>
+    <string name="textView_afterClick">Hello World!</string>
+</resources>

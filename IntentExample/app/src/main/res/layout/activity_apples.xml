@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#009900"
+    tools:context="borhanamini.intentexample.Apples">
+
+    <TextView
+        android:id="@+id/ApplesText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Apples"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="165dp"
+        tools:layout_editor_absoluteY="128dp"
+        android:layout_marginTop="69dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/ApplesButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#72231F"
+        android:onClick="onClick"
+        android:text="Go to Bacon"
+        tools:layout_editor_absoluteX="147dp"
+        tools:layout_editor_absoluteY="307dp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:id="@+id/ApplesInput"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Enter some text here"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="108dp"
+        tools:layout_editor_absoluteY="185dp"
+        android:layout_marginTop="43dp"
+        android:layout_below="@+id/ApplesText"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>

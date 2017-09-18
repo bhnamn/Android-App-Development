@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hello_world_port">Hello Portrait World!</string>
+    <string name="hello_world_land">Hello landscape world!</string>
+</resources>
