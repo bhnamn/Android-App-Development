@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HomeworkManager</string>
+    <string name="header_text">Headers are cool.</string>
+    <string name="subheader_text">Make sure you \"escape\" special characters like qoutes &amp; ampersand.</string>
+    <string name="next">Go to the next activity</string>
+    <string name="send_email">Send Email</string>
+    <string name="hint_text">This is hint text.</string>
+</resources>

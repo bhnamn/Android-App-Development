@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lesson5_Exercise2_ShoppingList</string>
+    <string name="username">Enter Username</string>
+    <string name="password">Enter Password</string>
+    <string name="enter_product_s_name">Enter product\'s name</string>
+    <string name="product">Product</string>
+</resources>

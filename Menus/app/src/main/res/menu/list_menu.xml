@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/mi_alpha"
+        android:title="Alpha" />
+
+    <item
+        android:id="@+id/mi_echo"
+        android:title="Echo" />
+
+    <item
+        android:id="@+id/mi_sierra"
+        android:title="Sierra" />
+
+</menu>

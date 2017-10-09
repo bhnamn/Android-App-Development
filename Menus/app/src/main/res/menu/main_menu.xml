@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mi_info"
+        android:title="Info"/>
+
+    <item
+        android:id="@+id/mi_exit"
+        android:title="Exit"/>
+    <item
+        android:title="Others">
+
+        <menu>
+
+            <item
+                android:id="@+id/mi_angels"
+                android:title="Weeping Angels"/>
+
+            <item
+                android:id="@+id/mi_silence"
+                android:title="The Silence"/>
+
+            <item
+                android:id="@+id/mi_silurians"
+                android:title="Silurians"/>
+
+            <item
+                android:id="@+id/mi_sontarans"
+                android:title="Sontarans"/>
+
+            <item
+                android:id="@+id/mi_master"
+                android:title="The Master"/>
+        </menu>
+    </item>
+
+</menu>
